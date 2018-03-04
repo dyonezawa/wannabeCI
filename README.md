@@ -4,7 +4,10 @@ wannabeCI is a Command Line Interface (CLI) to help your development project tha
 WCI can also be used inside jenkins, so you can set it up to run on your docker slave, to compile any sort of programming language, and killing the container right after it!
 
 ## Setup
-First you have to install docker on your machine (**Dont worry if you have no idea how**):
+To install wannabeCI is easy as one command line:
+>$: wget -qO- github.com/ | sh get-wci.sh
+
+You also have to install docker on your machine if you already dont have it (**Dont worry if you have no idea how**):
 >$: wci install --docker
 
 We use get.docker.com script to actually do it, feel free to visit get.docker.com to check it out.
