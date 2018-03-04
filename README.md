@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/dyonezawa/wannabeCI/raw/master/wannabeCI.jpg"><br><br>
+  <img src="https://github.com/dyonezawa/wannabeCI/raw/master/wannabeCI.png"><br><br>
 </div>
 
 -----------------
