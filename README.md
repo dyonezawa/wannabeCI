@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://github.com/dyonezawa/wannabeCI/raw/master/wannabeCI.jpg"><br><br>
+</div>
+
 # WCI - wannabeCI
 wannabeCI is a Command Line Interface (CLI) to help your development project that wanna be part of a CI/CD enviroment. WCI help your project to compile in a Container enviroment, so you can test your code locally, before pushes it to your repository, and wait for jenkins to show you that will not compile because you forgot to mentions a dependency that only exists in your local machine global enviroment and etc.
 
