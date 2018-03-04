@@ -63,7 +63,7 @@ Example(nodejs):
 After this initial configuration, you're good to go, and compile your project in a much easier enviroment, that can also be the same enviroment that your **jenkins** or any other orquestrator uses with a container to compile.
 
 ## Issues
-This is a independent free project, any issues or improvements, are welcome here: [issues](https://github.com/diztak-ltda/wci/issues).
+This is a independent free project, any issues or improvements, are welcome here: [issues](https://github.com/dyonezawa/wannabeCI/issues).
 ## Donations
 You can also help us out with paypal donations, or even a feedback email:
 
