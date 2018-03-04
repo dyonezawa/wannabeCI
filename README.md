@@ -6,6 +6,7 @@ WCI can also be used inside jenkins, so you can set it up to run on your docker 
 ## Setup
 First you have to install docker on your machine (**Dont worry if you have no idea how**):
 >$: wci install --docker
+
 We use get.docker.com script to actually do it, feel free to visit get.docker.com to check it out.
 
 
