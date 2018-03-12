@@ -3,7 +3,9 @@
 </div>
 
 -----------------
-**wannabeCI** is a Command Line Interface (CLI) to help your development project that wanna be part of a CI/CD enviroment. WCI help your project to compile in a Container enviroment, so you can test your code locally, before pushes it to your repository, and wait for jenkins to show you that will not compile because you forgot to mentions a dependency that only exists in your local machine global enviroment and etc.
+**wannabeCI** is a Command Line Interface (CLI) to help your development project that wanna be part of a CI/CD enviroment. WCI help your project to compile in a Container enviroment. You can run it from a jenkins slave with ephemeral docker setup or even locally!
+
+No more excuses that it compiles on dev machine, and not in jenkins! (YES IT HAPPENS..QUITE A LOT!)
 
 WCI can also be used inside jenkins, so you can set it up to run on your docker slave, to compile any sort of programming language, and killing the container right after it!
 
