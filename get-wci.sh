@@ -7,6 +7,5 @@ wget --no-check-certificate --content-disposition https://github.com/dyonezawa/w
 chmod +x wci
 
 # move it to /usr/bin/
-sudo cp wci /usr/bin/
-sudo rm -rf wci
-sudo rm -rf get-wci.sh
+sudo mv wci /usr/local/bin/wci
+rm -rf get-wci.sh
