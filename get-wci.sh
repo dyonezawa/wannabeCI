@@ -1,7 +1,7 @@
 #!/bin/sh
 
 # download wci
-wget --no-check-certificate --content-disposition https://github.com/dyonezawa/wannabeCI/raw/master/bin/wci
+wget --no-check-certificate --content-disposition https://github.com/dyonezawa/wannabeCI/raw/master/bin/linux_amd64/wci
 
 # set wci to be runnable
 chmod +x wci
