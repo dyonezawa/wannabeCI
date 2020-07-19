@@ -1,11 +1,10 @@
 #!/bin/sh
 
-
 # download wci
 unameOut="$(uname -s)"
 case "${unameOut}" in
-    Linux*)     wget --no-check-certificate --content-disposition https://github.com/dzway/wannabeCI/raw/master/bin/linux_amd64/wci;;
-    Darwin*)    wget --no-check-certificate --content-disposition https://github.com/dzway/wannabeCI/raw/master/bin/darwin/wci;;
+    Linux*)     wget --no-check-certificate --content-disposition https://bintray.com/dzway/wannabeci/download_file?file_path=linux_amd64%2Fwci%2Fwci;;
+    Darwin*)    wget --no-check-certificate --content-disposition https://bintray.com/dzway/wannabeci/download_file?file_path=darwin%2Fwci%2Fwci;;
     *)          echo "Sorry, there's no available package for your OS, contact github.com/dzway/wannabeCI."
 esac
 
