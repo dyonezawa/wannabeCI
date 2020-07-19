@@ -11,7 +11,7 @@ WCI can also be used inside jenkins, so you can set it up to run on your docker 
 
 ## Setup
 To install wannabeCI is easy as one command line:
->$: curl -fsSL raw.githubusercontent.com/dyonezawa/wannabeCI/master/get-wci.sh -o get-wci.sh && sh get-wci.sh
+>$: curl -fsSL raw.githubusercontent.com/dzway/wannabeCI/master/get-wci.sh -o get-wci.sh && sh get-wci.sh
 
 You also have to install docker on your machine if you already dont have it (**Dont worry if you have no idea how**):
 >$: curl -fsSL get.docker.com -o get-docker.sh && sh get-docker.sh
