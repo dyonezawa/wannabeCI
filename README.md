@@ -3,9 +3,7 @@
 </div>
 
 -----------------
-**wannabeCI** is a Command Line Interface (CLI) to help your development project that wanna be part of a CI/CD enviroment. WCI help your project to compile in a Container enviroment. You can run it from a jenkins slave with ephemeral docker setup or even locally!
-
-No more excuses that it compiles on dev machine, and not in jenkins! (YES IT HAPPENS..QUITE A LOT!)
+**wannabeCI** is a Command Line Interface (CLI) to help your development project that wanna be part of a CI/CD enviroment. WCI help your project to compile in a Container enviroment. You can run it from a jenkins node with ephemeral docker setup or locally.
 
 WCI can also be used inside jenkins, so you can set it up to run on your docker slave, to compile any sort of programming language, and killing the container right after it!
 
@@ -72,8 +70,4 @@ Example(nodejs):
 After this initial configuration, you're good to go, and compile your project in a much easier enviroment, that can also be the same enviroment that your **jenkins** or any other orquestrator uses with a container to compile.
 
 ## Issues
-This is a independent free project, any issues or improvements, are welcome here: [issues](https://github.com/dyonezawa/wannabeCI/issues).
-## Donations
-You can also help us out with paypal donations, or even a feedback email:
-
-**EMAIL/PAYPAL ACC**: daniel.yonezawa@live.com
+This is an independent free project, any issues or improvements, are welcome here: [issues](https://github.com/dzway/wannabeCI/issues).
